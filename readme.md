@@ -1,5 +1,5 @@
 # 1. Introduction
-Official code for article [DataLight: Offline Data-Driven Traffic Signal Control](https://arxiv.org/abs/2303.10828)
+Official code for article [DataLight: Offline Data-Driven Traffic Signal Control]
 
 
 # 2. Requirements
