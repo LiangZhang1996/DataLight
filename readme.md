@@ -1,5 +1,5 @@
 # 1. Introduction
-Official code for article [DataLight: Offline Data-Driven Traffic Signal Control]
+Official code for article <DataLight: Data-Centric Offline Reinforcement Learning for Traffic Signal Control>
 
 
 # 2. Requirements
