@@ -1,7 +1,7 @@
 ## Download our offline dataset
 Download the offline dataset from [offline dataset](https://drive.google.com/drive/folders/1RR6KT4jZvc0MDA_2s1b_Yj7OirgU5hAb?usp=sharing) and put them at this folder.
 
-Another link (https://zenodo.org/records/20822844) can also be used to downlaod that.
+Another link (https://doi.org/10.5281/zenodo.20822844) can also be used to downlaod that.
 
 
 These datasets are described as follows:
