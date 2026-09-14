@@ -1,5 +1,19 @@
 # 1. Introduction
-Official code for article <DataLight: Data-Centric Offline Reinforcement Learning for Traffic Signal Control>
+Official code for article [<DataLight: Data-Centric Offline Reinforcement Learning for Traffic Signal Control>](https://link.springer.com/chapter/10.1007/978-3-032-37670-1_17)
+
+If you use this code, please cite:
+'''
+@InProceedings{datalight,
+author="Zhang, Liang and Zhang, Yutong and Gao, Xiaofeng and Li, Chen",
+title="DataLight: Data-Centric Offline Reinforcement Learning for Traffic Signal Control",
+booktitle="Machine Learning and Knowledge Discovery in Databases. Research Track",
+year="2027",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="289--306",
+isbn="978-3-032-37670-1"
+}
+'''
 
 
 # 2. Requirements
