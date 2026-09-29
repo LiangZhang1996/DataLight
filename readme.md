@@ -14,7 +14,7 @@ pages="289--306",
 isbn="978-3-032-37670-1"
 }
 ```
-
+The history preprint version at: https://arxiv.org/abs/2303.10828v2.
 
 # 2. Requirements
 `python=3.6`, `tensorflow=2.4`, `cityflow`
